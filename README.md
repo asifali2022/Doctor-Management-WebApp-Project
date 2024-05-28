@@ -1,4 +1,4 @@
-# MyApp Spring Boot Application
+# Doctor Management WebApplication
 
 This is a Spring Boot application for managing doctors and patients. The application includes endpoints for CRUD operations and suggestions. It also includes Swagger for API documentation.
 
